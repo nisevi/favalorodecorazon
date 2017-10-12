@@ -1,12 +1,12 @@
 {
   "name": "favalorodecorazon",
   "version": "1.0.0",
-  "dependencies": {},
   "scripts": {
     "test": "gulp test",
     "start": "gulp",
     "build": "gulp build"
   },
+  "dependencies": {},
   "devDependencies": {
     "estraverse": "~4.1.0",
     "gulp": "~3.9.0",
