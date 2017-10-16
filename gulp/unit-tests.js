@@ -48,5 +48,5 @@ gulp.task('test', ['scripts:test'], function(done) {
 });
 
 gulp.task('test:auto', ['scripts:test-watch'], function(done) {
-  runTests(true, done);
+  runTests(false, done);
 });
