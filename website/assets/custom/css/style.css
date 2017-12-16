@@ -1,0 +1,41 @@
+body {
+    background: white;
+}
+
+#favaloro-life {
+    margin-top: 0;
+}
+
+#presentation {
+    margin-bottom: 0;
+}
+
+.grey-background {
+    background: lightgrey;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.footer {
+    padding-top: 15px;
+    height: 60px;
+    background-color: black;
+}
+
+.white-color {
+    color: white;
+}
+
+.cyan-color {
+    color: #00FFFF;
+}
+
+.cyan-color:hover {
+    color: yellow;
+}
+
+.wikipedia-reference {
+    font-size: 1.8em;
+}
