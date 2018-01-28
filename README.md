@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/nisevi/favalorodecorazon.svg?style=svg)](https://circleci.com/gh/nisevi/favalorodecorazon)
+
 # FAVALORO
 
 Tribute page to René Favaloro.
@@ -15,7 +17,3 @@ Tribute page to René Favaloro.
      * b. If the request is for the www subdomain, the CNAME for the externally hosted CDN is served.
 4. CloudFront forwards the request to Amazon S3.
 5. S3 performs a secure redirect from www.favalorodecorazon.com to favalorodecorazon.com.
-
-## Continuous deployment
-
-[CircleCI](https://circleci.com/gh/nisevi/favalorodecorazon) is being used to deploy from master branch to AWS.
